@@ -2,7 +2,7 @@
 #### Design and Development
 I am a solution oriented Software Developer, self taught lifelong leaner. I enjoy development because of the satisfaction I get by overcoming challenges and the ability to provide software services that positively impact the life of an individual and the community as a whole.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON / REACT / JS / HTML / CSS / TYPESCRIPT / SQL / MONGODB / DJANGO / EXPESSJS / NODEJS 
 
 - 🔭 I’m currently working on this page. 
 
