@@ -2,7 +2,7 @@
 #### Design and Development
 I am a solution oriented Software Developer, self taught lifelong leaner. I enjoy development because of the satisfaction I get by overcoming challenges and the ability to provide software services that positively impact the life of an individual and the community as a whole.
 
-Skills: PYTHON / REACT / JS / HTML / CSS / TYPESCRIPT / SQL / MONGODB / DJANGO / EXPESSJS / NODEJS 
+Skills: PYTHON / REACT / JAVASCRIPT / HTML / CSS / TYPESCRIPT / SQL / MONGODB / DJANGO / EXPESSJS / NODEJS  / KOTLIN
 
 - 🔭 I’m currently working on this page. 
 
@@ -12,3 +12,6 @@ Skills: PYTHON / REACT / JS / HTML / CSS / TYPESCRIPT / SQL / MONGODB / DJANGO /
 ![Profile views](https://gpvc.arturio.dev/Charity012)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charity012)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[Linkedin] (www.linkedin.com/in/charity-sammy)
